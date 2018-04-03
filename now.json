@@ -1,0 +1,7 @@
+{
+  "name": "licoricepie",
+  "alias": ["licoricepie.com.au", "www.licoricepie.com.au"],
+  "env": {
+    "NODE_ENV": "production"
+  }
+}

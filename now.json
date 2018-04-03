@@ -1,6 +1,6 @@
 {
-  "name": "licoricepie",
-  "alias": ["licoricepie.com.au", "www.licoricepie.com.au"],
+  "name": "patternworks-cfd-notice",
+  "alias": ["patternworks.com.au", "www.patternworks.com.au"],
   "env": {
     "NODE_ENV": "production"
   }
